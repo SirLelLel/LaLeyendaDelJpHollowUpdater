@@ -1,4 +1,4 @@
 
 <Version: Beta 0.02>
-/data/Map004.json
+/data/Map004.json https://raw.githubusercontent.com/SirLelLel/LaLeyendaDelJpHollowUpdater/main/Map004.json
 <End of Version>
