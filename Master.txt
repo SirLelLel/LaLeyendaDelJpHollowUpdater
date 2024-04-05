@@ -3,3 +3,7 @@
 /data/Map004.json https://raw.githubusercontent.com/SirLelLel/LaLeyendaDelJpHollowUpdater/main/Map004.json
 /data/Map002.json https://raw.githubusercontent.com/SirLelLel/LaLeyendaDelJpHollowUpdater/main/Map002.json
 <End of Version>
+
+<Version: 1.02.1>
+/data/Map002.json https://raw.githubusercontent.com/SirLelLel/LaLeyendaDelJpHollowUpdater/main/Map002.json
+<End of Version>
