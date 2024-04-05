@@ -1,4 +1,4 @@
 
-<Version: Beta 0.01>
-/data/test.zip
+<Version: Beta 0.02>
+/data/Map004.json
 <End of Version>
