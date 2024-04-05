@@ -1,1 +1,4 @@
 
+<Version: Beta 0.01>
+/data/test.zip
+<End of Version>
